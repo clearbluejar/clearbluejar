@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/clearbluejar"><img align="center" src="https://img.shields.io/twitter/follow/clearbluejar?color=blue&style=for-the-badge"></a> 
+    <a href="https://twitter.com/clearbluejar"><img alt="Twitter Follow" align="center" src="https://img.shields.io/twitter/follow/clearbluejar?color=blue&style=for-the-badge"></a><a href="https://infosec.exchange/@clearbluejar">  <img alt="Mastodon Follow"  align="center" src="https://img.shields.io/mastodon/follow/109396299069714193?color=purple&domain=https%3A%2F%2Finfosec.exchange&label=%40clearbluejar%40infosec.exchange&style=for-the-badge"></a>
 </p>
 
 <!--
